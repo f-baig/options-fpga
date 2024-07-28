@@ -4,7 +4,7 @@ pricing options using FPGAs
 
 although the code is not on the github as of right now due to us working on it on one computer solely (we only have one fpga)... it is coming soon we promise! this project is being worked on by my friend Nathan and I
 
-**as a general outline of what we are doing here please take a look at the image in the repo which shows the project architecture**
+**as a general outline of what we are doing here please take a look at the image in the repo which shows the project architecture (image forgets to mention that Verilog is used for FPGA programming)**
 
 here are some of the sources we used for our project: 
  - https://www.youtube.com/watch?v=fzikOtbVEL8
