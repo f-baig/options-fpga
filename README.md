@@ -11,3 +11,4 @@ here are some of the sources we used for our project:
  - https://medium.com/@alexander.tsoskounoglou/pricing-options-with-fourier-series-p3-the-heston-model-d157369a217a
  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943608
  - Professor Jean-Pierre Zigrand @ LSE
+ - The FPGA Programming Handbook by Bruno and Eschemann
