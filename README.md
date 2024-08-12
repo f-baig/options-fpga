@@ -6,7 +6,7 @@ although the code is not on the github as of right now due to us working on it o
 
 **as a general outline of what we are doing here please take a look at the image in the repo which shows the project architecture (image forgets to mention that Verilog is used for FPGA programming)**
 
-we want to both price options using MC simulations which can be massively parallelized on the FPGA as well as conduct dynamic delta hedging operations to a constantly updating portfolio
+we want to utilize the "field programmable" aspect of FPGAs to both price options using MC simulations which can be massively parallelized on the FPGA as well as conduct dynamic delta hedging operations to a constantly updating portfolio
 
 here are some of the sources we used for our project: 
  - https://www.youtube.com/watch?v=fzikOtbVEL8
