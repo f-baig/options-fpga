@@ -8,6 +8,8 @@ although the code is not on the github as of right now due to us working on it o
 
 we want to utilize the "field programmable" aspect of FPGAs to both price options using MC simulations which can be massively parallelized on the FPGA as well as conduct dynamic delta hedging operations to a constantly updating portfolio
 
+sorry for the delay
+
 here are some of the sources we used for our project: 
  - https://www.youtube.com/watch?v=fzikOtbVEL8
  - https://medium.com/@alexander.tsoskounoglou/pricing-options-with-fourier-series-p3-the-heston-model-d157369a217a
