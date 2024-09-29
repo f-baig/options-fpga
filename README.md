@@ -8,7 +8,7 @@ although the code is not on the github as of right now due to us working on it o
 
 we want to utilize the "field programmable" aspect of FPGAs to both price options using MC simulations which can be massively parallelized on the FPGA as well as conduct dynamic delta hedging operations to a constantly updating portfolio
 
-the reasoning behind not simply running this on a CPU or CPU is that the large number of random numbers which are generated can often lead to branch misprediction and cache misses, which are even more dangerous on GPUs which lack branch prediction and prefetchers. thus fpgas are able to solve this through hardware branches and custom loading logic (Barbone et. al.).
+the reasoning behind not simply running this on a CPU or GPU is that the large number of random numbers which are generated can often lead to branch misprediction and cache misses, which are even more dangerous on GPUs which lack branch prediction and prefetchers. thus fpgas are able to solve this through hardware branches and custom loading logic (Barbone et. al.).
 
 here are some of the sources we used for our project: 
  - https://www.youtube.com/watch?v=fzikOtbVEL8
